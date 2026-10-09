@@ -4,8 +4,7 @@
 
 **Étudiant en informatique · Développement logiciel & web**
 
-Je conçois des applications web, j’apprends en construisant des projets concrets et je progresse vers la Data Science et le Machine Learning.
-
+Je conçois des applications web, j’apprends en construisant des projets concrets
 <p>
   <a href="https://github.com/soumcode"><img src="https://img.shields.io/badge/GitHub-soumcode-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2f81f7?style=for-the-badge" alt="Focus Full Stack">
